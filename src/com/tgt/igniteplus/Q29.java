@@ -22,7 +22,6 @@ public class Q29 {
         first = 0;
         last = num - 1;
         middle = (first + last)/2;
-
         while( first <= last )
         {
             if ( array[middle] < item )
